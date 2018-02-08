@@ -1,7 +1,7 @@
 import json
 import urllib2
 
-first_list = ["darshan","kiran","vijay","aniruddh","hemant","divy","divya","hemant","sabina"]
+first_list = ["darshan","kiran","vijay","aniruddh","hemant","divy","divya","sabina"]
 
 myKey = "SVlpDsZvjtJXjjzxCH"
 names = ""
